@@ -1,6 +1,6 @@
 streamlit
-**Clone the repository**
-#git init meant for intializing repository
-#git add . adds all the files meant for pushing
-#git commit -m "First Commit"
-#git push origin main/master
+google-generativeai
+python-dotenv
+langchain
+langchain-google-genai
+
