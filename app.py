@@ -1,6 +1,6 @@
 import streamlit as st 
 from langchain import PromptTemplate, LLMChain
-from langchain-google-genai import ChatGoogleGenerativeAI
+from langchain_google_genai import ChatGoogleGenerativeAI
 import google.generativeai as genai
 
 # Import the local environment
